@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-	<title>Resume</title>
+	<title>A.C. Milan</title>
   </head>
   <body>
     <nav>
@@ -23,9 +23,9 @@
 	<img src="media/home_kit.png" alt="Milan Home Kit">
 	<p>In the mid-90s of the last century, Milan participaed in the finals for the UEFA Champions League for three years in 
 	   a row, but the battles for the cup against Marseille (1992/1993) and Ajax (1994/1995) were minimally lost 0-1, 
-	   and in the season of the 1993/1994 defeated Barcelona 4-0.</p>
+	   and in the 1993/1994 season defeated Barcelona 4-0.</p>
 	<p>The Italian club also successfully proved itself in the Champions League in the 2000s, they were close 
-	   to the trophy three more times, winning two more times.</p>
+	   to the trophy three more times, winning two of them.</p>
 	<P>The Champions League of 2003 was one of the hardest finals for Milan playing against Juventus (Italy). The full time 
 	   ended in a draw. As a result, the winner was determined in a series of penalties. Buffon (Juventus) saved twice, and Dida - 3. 
 	   Andriy Shevchenko scored crucial penalty who brought the "Rossoneri" the 6th Champions Cup in the history of the club.</p>
@@ -45,3 +45,6 @@
 	    <img src="media/maldini.jpg" alt="Maldini-Defender">
 	  <li>Ruud Gullit (1987-1993, 1994-1995) - Attacking midfielder/Forward</li>
 		<img src="media/gullit.jpg" alt="Gullit-Attacking midfielder/Forward">
+	</ul>
+  </body>
+</html>
