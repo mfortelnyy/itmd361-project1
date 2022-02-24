@@ -13,8 +13,8 @@
 		</ul>
 	</nav>
 	<h1>The most popular tourist attractions in Europe</h1>
-    <h2><em>Paris</em>, France</h2>
-	<section id="paris">
+    <section id="paris">
+	  <h2><em>Paris</em>, France</h2>
 	  <figure>
         <img src="media/arc.jpg" alt="Arc de Triomphe">
         <figcaption><em>Arc de Triomphe</em></figcaption>
@@ -40,9 +40,8 @@
         <figcaption><em>Statue of Liberty</em> (a smaller reproduction)</figcaption>
 	  </figure>
 	</section>
-	
-	<h2><em>Barcelona</em>, Spain</h2>
 	<section id="barca">
+	  <h2><em>Barcelona</em>, Spain</h2>
 	  <figure>
         <img src="media/sagrada.jpg" alt="La Sagrada Família">
         <figcaption><em>La Sagrada Família</em></figcaption>
@@ -64,10 +63,9 @@
         <figcaption><em>Bullfight 'Corrida' arenas</em></figcaption>
 	  </figure>
 	</section>
-	
-	<h2><em>Rome</em>, Italy</h2>
 	<section id="rome">
-	  <figure>
+	  <h2><em>Rome</em>, Italy</h2>
+      <figure>
         <img src="media/colosseum.jpg" alt="Colosseum">
         <figcaption><em>Roman Forum</em></figcaption>
 	  </figure>
@@ -89,9 +87,8 @@
         <figcaption><em>Sistine Chapel</em></figcaption>
 	  </figure>
 	</section>
-	
-	<h2><em>London</em>, UK</h2>
 	<section id="london">
+	  <h2><em>London</em>, UK</h2>
       <figure>
         <img src="media/buckingham.jpg" alt="Buckingham Palace">
         <figcaption><em>Buckingham Palace</em></figcaption>

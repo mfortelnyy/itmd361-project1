@@ -12,7 +12,7 @@
 		  <li><a href ="europe.html">europe</a>
 		</ul>
 	</nav>
-	<section>
+	<section id="history">
 	  <h1> A.C. Milan</h1>
 	  <img src="media/milan_logo.png" alt="Milan Logo">
 	  <p><em>One of my favorite sport teams is proffessional Italian soccer club Milan which have won Italian championship 18 times 
@@ -34,6 +34,7 @@
 	  <p>In the 2007 final, Milan was challenged by Liverpool but won 2-1, winning their seventh Champions League Cup</p>
 	</section>
 	  <p><strong>Great Milan players:</strong></p>
+	<section id="players">
 	  <figure>
         <img src="media/dida.jpg" alt="Dida-goalkeeper">
         <figcaption>Dida (2000-2010) - Goalkeeper</figcaption>
@@ -58,5 +59,6 @@
         <img src="media/gullit.jpg" alt="Gullit-Attacking midfielder/Forward">
         <figcaption>Ruud Gullit (1987-1993, 1994-1995) - Attacking midfielder/Forward</figcaption>
 	  </figure>
+	</section>
   </body>
 </html>
